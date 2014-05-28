@@ -1,0 +1,128 @@
+
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <title>DASdion is editing THIS PAGE</title>
+        <meta charset="UTF-8" />
+        <meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1"> 
+        <meta name="viewport" content="width=device-width, initial-scale=1.0"> 
+        <meta name="description" content="Elastic Image Slideshow with Thumbnail Preview for ChicagoIN Events Calendar" />
+        
+        <meta name="ChicagoIN" content="Chicago Events Calendar" />
+        <link rel="shortcut icon" href=<img src="images/favicon.ico" alt="favicon" width="16" height="16">"> 
+        <link rel="stylesheet" type="text/css" href="css/demo.css" />
+        <link rel="stylesheet" type="text/css" href="css/style.css" />
+        <link href='http://fonts.googleapis.com/css?family=Open+Sans+Condensed:300|Playfair+Display:400italic' rel='stylesheet' type='text/css' />
+		<noscript>
+			<link rel="stylesheet" type="text/css" href="css/noscript.css" />
+		</noscript>
+   </head>
+    <body>
+        <div class="container">
+            <div class="header">
+            <img src="images/ChicagoINBB.png" alt="ChicagoINBB" width="75" height="75">
+                    <strong>&laquo; ChicagoIN </strong><span align="right">Your Chicago Events Guru</span>
+                </a>
+                <span class="right">
+                    <a href="http://www.facebook.com/DasDion">DASdion @ Facebook
+                    <div class="fb-follow" data-href="https://www.facebook.com/chicagoin" data-width="75" data-height="75" data-colorscheme="light" data-layout="standard" data-show-faces="true"></div></a>
+                   <a href="https://twitter.com/intent/tweet?button_hashtag=ChicagoIN" class="twitter-hashtag-button" data-related="ChicagoIN">Tweet #ChicagoIN</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+                    </a>
+                </span>
+                <div class="clr"></div>
+            </div>
+            <h1>Spring Events Experience</h1>
+            <div class="wrapper">
+                <div id="ei-slider" class="ei-slider">
+                    <ul class="ei-slider-large">
+                        <li>
+                            <img src="images/large/Photo1.png" alt="Photo1" width="1280" height="700">">
+                            <div class="ei-title">
+                                <h2 style="color: black">Lake Michigan</h2>
+                                <h3>Chicago Style</h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="images/large/Photo2.png" alt="Photo2" width="1280" height="700">
+                            <div class="ei-title">
+                                <h2>Friendly</h2>
+                                <h3>Devil</h3>
+                            </div>
+                        </li>
+                        <li>
+                           <img src="images/large/Photo3.png" alt="Photo3" width="1280" height="700">
+                            <div class="ei-title">
+                                <h2>Craft</h2>
+                                <h3>Beer</h3>
+                            </div>
+                        </li>
+                        <li>
+                           <img src="images/large/Photo4.png" alt="Photo4" width="1280" height="700">
+                            <div class="ei-title">
+                                <h2  style="color: black">Devine</h2>
+                                <h3 >style</h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="images/large/Photo5.png" alt="Photo5" width="1280" height="700">
+                            <div class="ei-title">
+                                <h2>Loving</h2>
+                                <h3>Rebel</h3>
+                            </div>
+                        </li>
+                        <li>
+                           <img src="images/fire-hydrant-crop.jpg" alt="fire-hydrant-crop" width="1280" height="700">
+                            <div class="ei-title">
+                                <h2 >Dont </h2>
+                                <h3 style="color: white">Hold Back</h3>
+                            </div>
+                        </li>
+                        <li>
+                            <img src="images/chicagoin_logo-Mike-Cathy-01.png" alt="chicagoin_logo-Mike-Cathy-01" width="1280" height="500">                         
+                            <div class="ei-title">
+                                <h2>Check The</h2>
+								<h3 style="color: black">Calendar</h3>
+                            </div>
+                        </li>
+                    </ul><!-- ei-slider-large -->
+                    <ul class="ei-slider-thumbs">
+                        <li class="ei-slider-element">Current</li>
+                        <li><a href="#">Slide 1</a><img src="images/large/Photo1.png" alt="Photo1" width="150" height="80">
+                        </li>
+                        <li><a href="#">Slide 2</a><img src="images/large/Photo2.png" alt="Photo2" width="150" height="80">
+                        </li>
+                        <li><a href="#">Slide 3</a><img src="images/large/Photo3.png" alt="Photo3" width="150" height="80">
+                        </li>
+                        <li><a href="#">Slide 4</a><img src="images/large/Photo4.png" alt="Photo4" width="150" height="80">
+                        </li>
+                        <li><a href="#">Slide 5</a><img src="images/large/Photo5.png" alt="Photo5" width="150" height="80">
+                        </li>
+                        <li><a href="#">Slide 6</a><img src="images/fire-hydrant-crop.jpg" alt="fire-hydrant-crop" width="150" height="80">
+                        </li>
+                        <li><a href="#">Slide 7</a><img src="images/chicagoin_logo-Mike-Cathy-01.png" alt="chicagoin_logo-Mike-Cathy-01" width="150" height="80">
+                    </ul><!-- ei-slider-thumbs -->
+                </div><!-- ei-slider -->
+                <div class="reference">
+					<p class="demos"><span>Demo 1<span> | <a href="chicagoindas2.html">Demo 2 (with autoplay)</a></p>
+         <div id="twitterwrap">
+                    <p>Inquiries & Submission can be sent to our Staff</p><a href="https://twitter.com/intent/tweet?button_hashtag=ChicagoIN" class="twitter-hashtag-button" data-related="ChicagoIN">Tweet #ChicagoIN</a>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script></div>
+                </div>
+            </div><!-- wrapper -->
+        </div>
+        <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.0/jquery.min.js"></script>
+        <script type="text/javascript" src="js/jquery.eislideshow.js"></script>
+        <script type="text/javascript" src="js/jquery.easing.1.3.js"></script>
+        <script type="text/javascript">
+            $(function() {
+                $('#ei-slider').eislideshow({
+					animation			: 'center',
+					autoplay			: true,
+					slideshow_interval	: 3000,
+					titlesFactor		: 0
+                });
+            });
+        </script>
+    </body>
+</html>
